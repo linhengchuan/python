@@ -1,5 +1,13 @@
+#folder
+*pycache*
+*build*
+*dist
+
+#files
 *.ipynb_checkpoints
 *.log
 *.txt
 *.pyc
+*.pyd
 *.csv
+*.spec
