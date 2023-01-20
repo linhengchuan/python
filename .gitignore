@@ -11,3 +11,6 @@
 *.pyd
 *.csv
 *.spec
+
+#test files
+test*
